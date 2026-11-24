@@ -1,0 +1,14 @@
+# System and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Temporary Python execution scripts
+__pycache__/
+*.pyc
+reorder_sections.py
+add_animations.py
+sync_and_verify.py
+crop_emblem.py
